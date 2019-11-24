@@ -5,7 +5,5 @@ class Application
     resp.write "Hello, my name is" 
     resp.finish
   end
-  
-
 end
 
